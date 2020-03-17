@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace NESS.Entrevisa.Agendamento
+namespace Web1
 {
     public class FilterConfig
     {

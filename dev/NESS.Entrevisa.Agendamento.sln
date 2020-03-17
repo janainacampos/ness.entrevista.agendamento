@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NESS.Entrevisa.Agendamento", "NESS.Entrevisa.Agendamento\NESS.Entrevisa.Agendamento.csproj", "{C6DE2418-CBFA-4834-89A6-3521E52F2247}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NESS.Entrevisa.Agendamento", "NESS.Entrevisa.Agendamento\NESS.Entrevisa.Agendamento.csproj", "{70B51F5D-D1FA-4124-8097-D4F4FA65761A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C6DE2418-CBFA-4834-89A6-3521E52F2247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C6DE2418-CBFA-4834-89A6-3521E52F2247}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C6DE2418-CBFA-4834-89A6-3521E52F2247}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C6DE2418-CBFA-4834-89A6-3521E52F2247}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B51F5D-D1FA-4124-8097-D4F4FA65761A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B51F5D-D1FA-4124-8097-D4F4FA65761A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B51F5D-D1FA-4124-8097-D4F4FA65761A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B51F5D-D1FA-4124-8097-D4F4FA65761A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
